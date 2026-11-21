@@ -1,0 +1,10 @@
+{
+  "target": "skin",
+  "model": 120,
+  "kind": "livery",
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/13",
+  "textures": ["triboss"],
+  "fx": "livery.fx",
+  "image": "phantom.png",
+  "uniform": "gTexture"
+}
