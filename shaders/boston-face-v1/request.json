@@ -1,0 +1,10 @@
+
+{
+  "target": "skin",
+  "model": 0,
+  "kind": "livery",
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/22",
+  "textures": ["baldbeard"],
+  "image": "face.png",
+  "uniform": "gTexture"
+}
