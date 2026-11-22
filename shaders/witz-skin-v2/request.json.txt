@@ -1,0 +1,10 @@
+{
+  "target": "skin",
+  "model": 2,
+  "kind": "livery",
+  "github": "",
+  "textures": ["maccer"],
+  "fx": "livery.fx",
+  "image": "Witz.png",
+  "uniform": "gTexture"
+}
