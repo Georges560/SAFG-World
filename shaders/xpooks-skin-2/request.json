@@ -1,0 +1,12 @@
+{
+  "target": "skin",
+  "model": 2,
+  "kind": "livery",
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/18",
+  "textures": [
+    "maccer"
+  ],
+  "fx": "livery.fx",
+  "image": "XpooKs.png",
+  "uniform": "gTexture"
+}
