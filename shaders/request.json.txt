@@ -1,0 +1,9 @@
+{
+  "target": "skin",
+  "model": 240,
+  "kind": "livery",
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/123",
+  "textures": ["vs"],
+  "image": "VS-240.png",
+  "uniform": "gTexture"
+}
