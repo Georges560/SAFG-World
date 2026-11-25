@@ -1,0 +1,11 @@
+{
+  "organization": "ViceSquad",
+  "target": "skin",
+  "kind": "livery",
+  "model": 240,
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/39",
+  "textures": [
+    "swmyri"
+  ],
+  "image": "VS-240.png"
+}
