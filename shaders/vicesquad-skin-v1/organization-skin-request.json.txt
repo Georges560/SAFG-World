@@ -5,7 +5,7 @@
   "model": 240,
   "github": "https://github.com/InfinityPR/SAFG-World/pull/39",
   "textures": [
-    "vicesquad"
+    "swmyri"
   ],
   "image": "VS-240.png"
 }
