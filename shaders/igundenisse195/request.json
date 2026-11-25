@@ -1,0 +1,10 @@
+{
+  "target": "skin",
+  "model": 195,
+  "kind": "livery",
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/30",
+  "textures": [
+    "gangrl3"
+  ],
+  "image": "denisse.png"
+}
